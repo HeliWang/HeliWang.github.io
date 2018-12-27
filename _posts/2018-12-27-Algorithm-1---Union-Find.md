@@ -4,7 +4,7 @@ title:      Algorithm 1 - Union Find
 subtitle:   Basic Approach of Dynamic Connectivity Problem
 date:       2018-12-27
 author:     Heli
-header-img: https://png.pngtree.com/thumb_back/fw800/back_pic/03/89/15/9457d7e0b0169d5.jpg
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - Union Find

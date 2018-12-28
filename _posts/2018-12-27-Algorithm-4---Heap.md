@@ -1,15 +1,14 @@
 ---
 layout:     post
-title:      Algorithm 3 - Quick Sort & Merge Sort
-subtitle:   Study the randomized sort algorithm and analyze its performance
-date:       2018-12-27
+title:      Algorithm 4 - Priority Queues & Binary Search Tree
+subtitle:   Introduce the priority queue data type and symbol tables.
+date:       2018-12-28
 author:     Heli
-header-img: img/home-bg-geek.jpg
+header-img: img/404-bg.jpg
 catalog: true
 tags:
-    - Quick Sort
-    - Merge Sort
-    - Algorithm
+    - Priority Queue
+    - Symbol Tables
 ---
 
 # Assignment - Collinear
